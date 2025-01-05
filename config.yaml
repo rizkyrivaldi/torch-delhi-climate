@@ -1,0 +1,6 @@
+batch_size : 1
+
+# Model Parameter
+input_neuron : 1
+hidden_neuron : 6
+output_neuron : 1
